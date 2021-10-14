@@ -17,7 +17,7 @@ attack.css//attak.phpのデザインを実装しています。
 attack.phpから自由にログイン情報を入力してクリックします。
 
 #### Facebookへ遷移/session id固定攻撃
-Facebookへ遷移後、セッションIDを確認すると「abcd」に固定されています・
+Facebookへ遷移後、セッションIDを確認すると「abcd」に固定されています。
 
 ## 2.実装の工夫
 ・セッションIDの固定攻撃を工夫しました。
